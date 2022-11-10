@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.curso.ejercicios0","l":"Ejercicios0"},{"p":"com.curso.ejercicios0","l":"Palindromo"}];updateSearchResults();

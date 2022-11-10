@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/eibaneza/Documents/NetBeansProjects/Ejercicios0/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/eibaneza/Documents/NetBeansProjects/Ejercicios0/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Ejercicios0 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Ejercicios0 1.0-SNAPSHOT API'
+com.curso.ejercicios0
+'C:/Users/eibaneza/Documents/NetBeansProjects/Ejercicios0/src/main/java/com/curso/ejercicios0/Ejercicios0.java'
+'C:/Users/eibaneza/Documents/NetBeansProjects/Ejercicios0/src/main/java/com/curso/ejercicios0/Palindromo.java'
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\src\main\java = 1667223507790
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\allclasses-index.html = 1667897601724
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\allpackages-index.html = 1667897601731
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\copy.svg = 1667897601833
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\element-list = 1667897601609
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\help-doc.html = 1667897601796
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\index-all.html = 1667897601775
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\index.html = 1667897601786
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\jquery-ui.overrides.css = 1667897601873
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\member-search-index.js = 1667897601746
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\module-search-index.js = 1667897601734
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\overview-tree.html = 1667897601695
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\package-search-index.js = 1667897601739
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\script.js = 1667897601830
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\search-page.js = 1667897601847
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\search.html = 1667897601781
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\search.js = 1667897601842
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\stylesheet.css = 1667897601808
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\tag-search-index.js = 1667897601751
+C:\Users\eibaneza\Documents\NetBeansProjects\Ejercicios0\target\site\apidocs\type-search-index.js = 1667897601743
